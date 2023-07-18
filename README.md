@@ -1,6 +1,10 @@
 <h1>Black Jack</h1>
 
 <h2>Description</h2>
+Project to practice with the basics of python functions, while and for loops, control flows, logical operators and the random module. 
+<br />
+
+
 Blackjack is a casino banking game. It is the most widely played casino banking game in the world. It uses decks of 52 cards and descends from a global family of casino banking games known as Twenty-One. 
 
 
